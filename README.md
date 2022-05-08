@@ -32,3 +32,14 @@
     3. run the command  => cd android && gradlew \ ./gradlew  assembleRelease
     4. go to the {project director}\android\app\build\outputs\apk\releas 
     5. install the {name}.apk file in any android device
+
+
+# FEEDBACK
+
+1. The Project took me 4 Days and Two Hours.
+
+2. The Required IMAGE API (lorem Piscum) is not in api format, and i did not know what do was not Clear.
+
+3. 6/10.
+
+4. If Given a Choice, I prefer a project-based assessment.
